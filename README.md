@@ -51,3 +51,11 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Tejasv-bhalla/spotify-clone.git
+   
+2. Navigate to the project directory:
+    ```bash
+    cd spotify-clone
+
+## Author
+- **Tejasv Bhalla** - [GitHub Profile](https://github.com/Tejasv-bhalla)
+- [LinkedIn](https://www.linkedin.com/in/tejasv-bhalla-290a0a24b/)
