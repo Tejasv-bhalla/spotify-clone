@@ -19,4 +19,4 @@ The site features a fully responsive design, ensuring compatibility across vario
 While this project does not include backend functionality such as user authentication or dynamic content loading, it effectively demonstrates my ability to design and develop a complex user interface with modern web technologies.
 
 ## Screenshot
-
+![Screenshot](https://github.com/Tejasv-bhalla/spotify-clone/blob/main/screenshot.png)
